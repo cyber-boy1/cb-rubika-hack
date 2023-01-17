@@ -1,0 +1,21 @@
+
+from colorama import Fore
+import time
+print("welcom!")
+print(Fore.BLUE,"%%%%%%%%%%%%%%%%%%%%%%%%%")
+print(Fore.RED,"#%%%%%%%%%%%%%%%%%%%%%%%#")
+print(Fore.RED,"#%%%%%%%%%%%%%%%%%%%%%%%#")
+print(Fore.BLUE,"# CYBER BUY RUBIKA-HACK!#")
+print(Fore.RED,"#%%%%%%%%%%%%%%%%%%%%%%%#")
+print(Fore.RED,"#%%%%%%%%%%%%%%%%%%%%%%%#")
+print(Fore.BLUE,"%%%%%%%%%%%%%%%%%%%%%%%%%")
+print(Fore.RED,"")
+number = input("TATGET NUMBER?")
+print(Fore.BLUE,"hackinh...20%")
+time.sleep(1.0)
+print(Fore.RED,"hacking.....58%")
+time.sleep(2.0)
+print(Fore.BLUE,"hacking.......100%")
+time.sleep(3.5)
+print(Fore.RED,"",number, "hacked")
+print(Fore.BLUE,"code: 58379")
