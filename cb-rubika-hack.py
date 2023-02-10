@@ -1,4 +1,3 @@
-
 from colorama import Fore
 import time
 print("welcom!")
@@ -27,7 +26,7 @@ print(Fore.BLUE,"hacking.......100%")
 time.sleep(3.5)
 print(Fore.RED,"",number, "hacked")
 list = ['1','2','3','4','5','6','7','8','9']
-1 = random.choice(list)
+a1 = random.choice(list)
 a2 = random.choice(list)
 a3 = random.choice(list)
 a4 = random.choice(list)
