@@ -1,3 +1,4 @@
+import random
 from colorama import Fore
 import time
 print("welcom!")
